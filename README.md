@@ -1,2 +1,0 @@
-# cat-classification
-using transformers
